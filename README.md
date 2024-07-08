@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Ziga
+⁶# Hi there 👋 I'm Ziga
 
 ### 🔭 I can talk about:
 
@@ -15,7 +15,7 @@
 
 ![Ziga's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZigaLarissa&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ZigaLarissa&theme=merko&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ZigaLarissa%20)](https://git.io/streak-stats)
 
 Let's connect and chat movies:
 
