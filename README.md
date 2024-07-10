@@ -1,18 +1,22 @@
-⁶# Hi there 👋 I'm Ziga
+## Hi there 👋 I'm Ziga
 
 ### 🔭 I can talk about:
 
 - Never mind,
 - Let me not keep you for too long ...
-- I hope you get what you are lookin for 😉
+- I hope you get what you are lookin' for 😉
 
-### 🛠️ Toolbox
+### 🛠️ Ohh right; a BIO!
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python logo" width="50" height="50" style="vertical-align:top; margin:4px"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5 logo" width="50" height="50" style="vertical-align:top; margin:4px"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS3 logo" width="50" height="50" style="vertical-align:top; margin:4px"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React logo" width="50" height="50" style="vertical-align:top; margin:4px"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap logo" width="50" height="50" style="vertical-align:top; margin:4px">
+*Honestly... lately I feel like I am crossing a hidden layer. why? I DON'T KNOW WHAT's UP.*
+
+*All I know is I am undergoing a transformation by taking on different projects, but the thing is, I have no idea what is the direct impact happening. I am literally waiting to find out at the end of the journey.*
+
+*yeap! I am no different from the inputs in the ML hidden layers 😆*
+
+**Anywho, coding is stressful but I am the stress!**
 
 ### 📈 Status
-
-![Ziga's GitHub status](https://github-readme-stats.vercel.app/api?username=ZigaLarissa&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ZigaLarissa&theme=dark)](https://git.io/streak-stats)
 
